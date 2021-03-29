@@ -1,0 +1,153 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.main-menu {
+  position: fixed;
+}
+
+.main-menu-nav {
+  position: fixed;
+  top: 10px;
+  right: 1%;
+  padding: 0px;
+
+}
+
+.smartvu {
+  position:fixed; 
+  top:0; 
+  left:0; 
+  bottom:0;
+  right:0; 
+  width:100%; 
+  height:100%; 
+  border:none; 
+  margin:0; 
+  padding:0;
+}
+
+.main-menu-nav a {
+  float: left;
+  text-align: center;
+  padding: 8px;
+  color: black;
+  font-size: 1.1rem;
+}
+
+.logo {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  height: 64px;
+}
+
+.low-menu-nav {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  padding: 0.5rem;
+}
+
+.low-menu-nav a {
+  float: left;
+  margin: 0px;
+  text-align: center;
+  color: grey;
+  font-size: 1rem;
+  margin-left: 0.5rem;
+}
+
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  right: 0%;
+    -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 14px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 18px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.calendar {
+  background: #ff5252;
+  color: white;
+}
+
+.mail {
+  background: #808080;
+  color: white;
+}
+
+.share {
+  background: #435168;
+  color: white;
+}
+
+
+
+.ueberschrift {
+  position: fixed;
+  top: 10px;
+  width: 100%;
+  right: 10px;
+  padding: 0px;
+  
+  
+}
+
+h1 {
+  text-align: center;
+  padding: 8px;
+  color: black;
+  font-weight: 900;
+  font-size: 1.5rem;
+  
+}
+
+.produktbeschreibung {
+  position: absolute;
+  background-color: white;
+  text-align: left;
+  width: 21vw;
+  height: 300px;
+  bottom: 30px;
+  left: 30px;
+  padding: 1rem;
+  font-size: 0.8rem;
+  border-radius: 5px;
+  box-shadow: 10px 5px 30px grey;
+}
+
+.produktbeschreibung h2 {
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
+.produktbeschreibung label {
+  font-weight: 550;
+}
+
+.btn {
+  background-color: #ff5252;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 30px;
+  text-decoration: none;
+}
+
+.amazon {
+  font-size: 0.7rem;
+}
