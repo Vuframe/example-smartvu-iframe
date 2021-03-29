@@ -4,7 +4,7 @@ This is a sample site that shows how to interact with the web-version of a Smart
 
 Try it out:
 
-
+https://vuframe.github.io/example-smartvu-iframe/
 
 ## Docs
 
