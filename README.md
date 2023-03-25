@@ -14,5 +14,5 @@ https://vuframe.com/docs/platform/smartvu/iframe#embed-api
 
 ## Contact
 
-Stefan Minack - stefan.minack@vuframe.com
+Thomas Oswald – thomas.oswald@vuframe.com
 
